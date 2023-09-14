@@ -7,4 +7,4 @@ This project is an implementation of an image compression algorithm based on sin
 3. Perform a singularity value decomposition
 4. Remove the k smallest singularity values from the diagonal matrix
 5. Remove the last k columns of matrix U
-6. Remove the last k rows of V
+6. Remove the last k rows of matrix V
