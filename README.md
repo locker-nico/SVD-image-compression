@@ -1,2 +1,2 @@
 # SVD-image-compression
-This project is an implementation of an image compresion algorithm based on singularity value decomposition.
+This project is an implementation of an image compression algorithm based on singularity value decomposition.
